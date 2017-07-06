@@ -1,0 +1,1893 @@
+{
+  "0": {
+    "read": {
+      "date": "2017-06-16 01:10:50 +0000",
+      "carrierName": "",
+      "signalStrength": "6.4931640625",
+      "longitude": "-43.104",
+      "latitude": "-22.902"
+    }
+  },
+  "1": {
+    "read": {
+      "date": "2017-06-13 00:47:06 +0000",
+      "carrierName": "",
+      "signalStrength": "2.5",
+      "longitude": "-43.102",
+      "latitude": "-22.904"
+    }
+  },
+  "2": {
+    "read": {
+      "date": "2017-06-13 12:46:14 +0000",
+      "carrierName": "",
+      "signalStrength": "21.0",
+      "longitude": "-43.11",
+      "latitude": "-22.898"
+    }
+  },
+  "3": {
+    "read": {
+      "date": "2017-06-13 12:44:05 +0000",
+      "carrierName": "",
+      "signalStrength": "21.0",
+      "longitude": "-43.108",
+      "latitude": "-22.9"
+    }
+  },
+  "4": {
+    "read": {
+      "date": "2017-06-13 12:44:08 +0000",
+      "carrierName": "",
+      "signalStrength": "21.0",
+      "longitude": "-43.11",
+      "latitude": "-22.9"
+    }
+  },
+  "5": {
+    "read": {
+      "date": "2017-06-13 12:47:11 +0000",
+      "carrierName": "",
+      "signalStrength": "21.0",
+      "longitude": "-43.11",
+      "latitude": "-22.896"
+    }
+  },
+  "6": {
+    "read": {
+      "date": "2017-06-13 12:47:48 +0000",
+      "carrierName": "",
+      "signalStrength": "11.0000762939453",
+      "longitude": "-43.112",
+      "latitude": "-22.896"
+    }
+  },
+  "7": {
+    "read": {
+      "date": "2017-06-13 12:48:18 +0000",
+      "carrierName": "",
+      "signalStrength": "11.0",
+      "longitude": "-43.112",
+      "latitude": "-22.894"
+    }
+  },
+  "8": {
+    "read": {
+      "date": "2017-06-13 12:48:40 +0000",
+      "carrierName": "",
+      "signalStrength": "11.0",
+      "longitude": "-43.112",
+      "latitude": "-22.892"
+    }
+  },
+  "9": {
+    "read": {
+      "date": "2017-06-13 12:48:50 +0000",
+      "carrierName": "",
+      "signalStrength": "11.0",
+      "longitude": "-43.112",
+      "latitude": "-22.89"
+    }
+  },
+  "10": {
+    "read": {
+      "date": "2017-06-13 12:49:06 +0000",
+      "carrierName": "",
+      "signalStrength": "11.0",
+      "longitude": "-43.114",
+      "latitude": "-22.89"
+    }
+  },
+  "11": {
+    "read": {
+      "date": "2017-06-14 13:45:20 +0000",
+      "carrierName": "",
+      "signalStrength": "17.474609375",
+      "longitude": "-43.114",
+      "latitude": "-22.888"
+    }
+  },
+  "12": {
+    "read": {
+      "date": "2017-06-14 13:45:32 +0000",
+      "carrierName": "",
+      "signalStrength": "17.496826171875",
+      "longitude": "-43.114",
+      "latitude": "-22.886"
+    }
+  },
+  "13": {
+    "read": {
+      "date": "2017-06-14 13:45:40 +0000",
+      "carrierName": "",
+      "signalStrength": "17.474609375",
+      "longitude": "-43.114",
+      "latitude": "-22.884"
+    }
+  },
+  "14": {
+    "read": {
+      "date": "2017-06-14 13:45:51 +0000",
+      "carrierName": "",
+      "signalStrength": "17.496826171875",
+      "longitude": "-43.112",
+      "latitude": "-22.884"
+    }
+  },
+  "15": {
+    "read": {
+      "date": "2017-06-14 13:46:03 +0000",
+      "carrierName": "",
+      "signalStrength": "17.4984130859375",
+      "longitude": "-43.112",
+      "latitude": "-22.882"
+    }
+  },
+  "16": {
+    "read": {
+      "date": "2017-06-14 13:46:14 +0000",
+      "carrierName": "",
+      "signalStrength": "17.496826171875",
+      "longitude": "-43.112",
+      "latitude": "-22.88"
+    }
+  },
+  "17": {
+    "read": {
+      "date": "2017-06-14 13:46:22 +0000",
+      "carrierName": "",
+      "signalStrength": "17.474609375",
+      "longitude": "-43.112",
+      "latitude": "-22.878"
+    }
+  },
+  "18": {
+    "read": {
+      "date": "2017-06-14 13:46:31 +0000",
+      "carrierName": "",
+      "signalStrength": "17.4873046875",
+      "longitude": "-43.114",
+      "latitude": "-22.878"
+    }
+  },
+  "19": {
+    "read": {
+      "date": "2017-06-14 13:46:38 +0000",
+      "carrierName": "",
+      "signalStrength": "17.44921875",
+      "longitude": "-43.114",
+      "latitude": "-22.876"
+    }
+  },
+  "20": {
+    "read": {
+      "date": "2017-06-14 13:46:50 +0000",
+      "carrierName": "",
+      "signalStrength": "17.4984130859375",
+      "longitude": "-43.116",
+      "latitude": "-22.876"
+    }
+  },
+  "21": {
+    "read": {
+      "date": "2017-06-14 13:46:52 +0000",
+      "carrierName": "",
+      "signalStrength": "15.875",
+      "longitude": "-43.118",
+      "latitude": "-22.876"
+    }
+  },
+  "22": {
+    "read": {
+      "date": "2017-06-14 13:47:03 +0000",
+      "carrierName": "",
+      "signalStrength": "17.496826171875",
+      "longitude": "-43.118",
+      "latitude": "-22.874"
+    }
+  },
+  "23": {
+    "read": {
+      "date": "2017-06-14 13:47:14 +0000",
+      "carrierName": "",
+      "signalStrength": "17.496826171875",
+      "longitude": "-43.12",
+      "latitude": "-22.874"
+    }
+  },
+  "24": {
+    "read": {
+      "date": "2017-06-14 13:47:20 +0000",
+      "carrierName": "",
+      "signalStrength": "17.3984375",
+      "longitude": "-43.122",
+      "latitude": "-22.874"
+    }
+  },
+  "25": {
+    "read": {
+      "date": "2017-06-14 13:47:25 +0000",
+      "carrierName": "",
+      "signalStrength": "17.296875",
+      "longitude": "-43.122",
+      "latitude": "-22.872"
+    }
+  },
+  "26": {
+    "read": {
+      "date": "2017-06-14 13:47:35 +0000",
+      "carrierName": "",
+      "signalStrength": "17.49365234375",
+      "longitude": "-43.124",
+      "latitude": "-22.872"
+    }
+  },
+  "27": {
+    "read": {
+      "date": "2017-06-14 13:47:45 +0000",
+      "carrierName": "",
+      "signalStrength": "17.49365234375",
+      "longitude": "-43.126",
+      "latitude": "-22.872"
+    }
+  },
+  "28": {
+    "read": {
+      "date": "2017-06-14 13:47:56 +0000",
+      "carrierName": "",
+      "signalStrength": "17.496826171875",
+      "longitude": "-43.128",
+      "latitude": "-22.872"
+    }
+  },
+  "29": {
+    "read": {
+      "date": "2017-06-14 13:48:06 +0000",
+      "carrierName": "",
+      "signalStrength": "17.49365234375",
+      "longitude": "-43.13",
+      "latitude": "-22.872"
+    }
+  },
+  "30": {
+    "read": {
+      "date": "2017-06-14 13:48:17 +0000",
+      "carrierName": "",
+      "signalStrength": "17.496826171875",
+      "longitude": "-43.132",
+      "latitude": "-22.872"
+    }
+  },
+  "31": {
+    "read": {
+      "date": "2017-06-14 13:48:28 +0000",
+      "carrierName": "",
+      "signalStrength": "17.496826171875",
+      "longitude": "-43.134",
+      "latitude": "-22.872"
+    }
+  },
+  "32": {
+    "read": {
+      "date": "2017-06-14 13:48:38 +0000",
+      "carrierName": "",
+      "signalStrength": "17.49365234375",
+      "longitude": "-43.136",
+      "latitude": "-22.872"
+    }
+  },
+  "33": {
+    "read": {
+      "date": "2017-06-14 13:48:47 +0000",
+      "carrierName": "",
+      "signalStrength": "17.4873046875",
+      "longitude": "-43.138",
+      "latitude": "-22.872"
+    }
+  },
+  "34": {
+    "read": {
+      "date": "2017-06-14 13:48:56 +0000",
+      "carrierName": "",
+      "signalStrength": "17.4873046875",
+      "longitude": "-43.14",
+      "latitude": "-22.872"
+    }
+  },
+  "35": {
+    "read": {
+      "date": "2017-06-14 13:49:05 +0000",
+      "carrierName": "",
+      "signalStrength": "17.4873046875",
+      "longitude": "-43.142",
+      "latitude": "-22.872"
+    }
+  },
+  "36": {
+    "read": {
+      "date": "2017-06-14 13:49:09 +0000",
+      "carrierName": "",
+      "signalStrength": "17.09375",
+      "longitude": "-43.144",
+      "latitude": "-22.872"
+    }
+  },
+  "37": {
+    "read": {
+      "date": "2017-06-14 13:49:15 +0000",
+      "carrierName": "",
+      "signalStrength": "17.3984375",
+      "longitude": "-43.144",
+      "latitude": "-22.87"
+    }
+  },
+  "38": {
+    "read": {
+      "date": "2017-06-14 13:49:24 +0000",
+      "carrierName": "",
+      "signalStrength": "17.4873046875",
+      "longitude": "-43.146",
+      "latitude": "-22.87"
+    }
+  },
+  "39": {
+    "read": {
+      "date": "2017-06-14 13:49:33 +0000",
+      "carrierName": "",
+      "signalStrength": "17.4873046875",
+      "longitude": "-43.148",
+      "latitude": "-22.87"
+    }
+  },
+  "40": {
+    "read": {
+      "date": "2017-06-14 13:49:42 +0000",
+      "carrierName": "",
+      "signalStrength": "17.4873046875",
+      "longitude": "-43.15",
+      "latitude": "-22.87"
+    }
+  },
+  "41": {
+    "read": {
+      "date": "2017-06-14 13:49:51 +0000",
+      "carrierName": "",
+      "signalStrength": "17.4873046875",
+      "longitude": "-43.152",
+      "latitude": "-22.87"
+    }
+  },
+  "42": {
+    "read": {
+      "date": "2017-06-14 13:50:01 +0000",
+      "carrierName": "",
+      "signalStrength": "17.49365234375",
+      "longitude": "-43.154",
+      "latitude": "-22.87"
+    }
+  },
+  "43": {
+    "read": {
+      "date": "2017-06-14 13:50:11 +0000",
+      "carrierName": "",
+      "signalStrength": "17.49365234375",
+      "longitude": "-43.156",
+      "latitude": "-22.87"
+    }
+  },
+  "44": {
+    "read": {
+      "date": "2017-06-14 13:50:22 +0000",
+      "carrierName": "",
+      "signalStrength": "17.496826171875",
+      "longitude": "-43.158",
+      "latitude": "-22.87"
+    }
+  },
+  "45": {
+    "read": {
+      "date": "2017-06-14 13:50:31 +0000",
+      "carrierName": "",
+      "signalStrength": "17.4873046875",
+      "longitude": "-43.16",
+      "latitude": "-22.87"
+    }
+  },
+  "46": {
+    "read": {
+      "date": "2017-06-14 13:50:40 +0000",
+      "carrierName": "",
+      "signalStrength": "17.4873046875",
+      "longitude": "-43.162",
+      "latitude": "-22.87"
+    }
+  },
+  "47": {
+    "read": {
+      "date": "2017-06-14 13:50:50 +0000",
+      "carrierName": "",
+      "signalStrength": "17.49365234375",
+      "longitude": "-43.164",
+      "latitude": "-22.87"
+    }
+  },
+  "48": {
+    "read": {
+      "date": "2017-06-14 13:50:58 +0000",
+      "carrierName": "",
+      "signalStrength": "17.474609375",
+      "longitude": "-43.166",
+      "latitude": "-22.87"
+    }
+  },
+  "49": {
+    "read": {
+      "date": "2017-06-14 13:51:00 +0000",
+      "carrierName": "",
+      "signalStrength": "15.875",
+      "longitude": "-43.166",
+      "latitude": "-22.868"
+    }
+  },
+  "50": {
+    "read": {
+      "date": "2017-06-14 13:51:11 +0000",
+      "carrierName": "",
+      "signalStrength": "17.496826171875",
+      "longitude": "-43.168",
+      "latitude": "-22.868"
+    }
+  },
+  "51": {
+    "read": {
+      "date": "2017-06-14 13:51:22 +0000",
+      "carrierName": "",
+      "signalStrength": "17.496826171875",
+      "longitude": "-43.17",
+      "latitude": "-22.868"
+    }
+  },
+  "52": {
+    "read": {
+      "date": "2017-06-14 13:51:32 +0000",
+      "carrierName": "",
+      "signalStrength": "17.49365234375",
+      "longitude": "-43.172",
+      "latitude": "-22.868"
+    }
+  },
+  "53": {
+    "read": {
+      "date": "2017-06-14 13:51:42 +0000",
+      "carrierName": "",
+      "signalStrength": "17.49365234375",
+      "longitude": "-43.174",
+      "latitude": "-22.868"
+    }
+  },
+  "54": {
+    "read": {
+      "date": "2017-06-14 13:51:51 +0000",
+      "carrierName": "",
+      "signalStrength": "17.4873046875",
+      "longitude": "-43.176",
+      "latitude": "-22.868"
+    }
+  },
+  "55": {
+    "read": {
+      "date": "2017-06-14 13:52:01 +0000",
+      "carrierName": "",
+      "signalStrength": "17.49365234375",
+      "longitude": "-43.178",
+      "latitude": "-22.868"
+    }
+  },
+  "56": {
+    "read": {
+      "date": "2017-06-14 13:52:09 +0000",
+      "carrierName": "",
+      "signalStrength": "17.474609375",
+      "longitude": "-43.18",
+      "latitude": "-22.868"
+    }
+  },
+  "57": {
+    "read": {
+      "date": "2017-06-14 13:52:20 +0000",
+      "carrierName": "",
+      "signalStrength": "17.496826171875",
+      "longitude": "-43.182",
+      "latitude": "-22.868"
+    }
+  },
+  "58": {
+    "read": {
+      "date": "2017-06-14 13:52:30 +0000",
+      "carrierName": "",
+      "signalStrength": "17.49365234375",
+      "longitude": "-43.184",
+      "latitude": "-22.868"
+    }
+  },
+  "59": {
+    "read": {
+      "date": "2017-06-14 13:52:39 +0000",
+      "carrierName": "",
+      "signalStrength": "17.4873046875",
+      "longitude": "-43.186",
+      "latitude": "-22.868"
+    }
+  },
+  "60": {
+    "read": {
+      "date": "2017-06-14 13:52:46 +0000",
+      "carrierName": "",
+      "signalStrength": "17.44921875",
+      "longitude": "-43.188",
+      "latitude": "-22.868"
+    }
+  },
+  "61": {
+    "read": {
+      "date": "2017-06-14 13:52:49 +0000",
+      "carrierName": "",
+      "signalStrength": "16.6875",
+      "longitude": "-43.188",
+      "latitude": "-22.866"
+    }
+  },
+  "62": {
+    "read": {
+      "date": "2017-06-14 13:52:58 +0000",
+      "carrierName": "",
+      "signalStrength": "17.4873046875",
+      "longitude": "-43.19",
+      "latitude": "-22.866"
+    }
+  },
+  "63": {
+    "read": {
+      "date": "2017-06-14 13:53:07 +0000",
+      "carrierName": "",
+      "signalStrength": "17.4873046875",
+      "longitude": "-43.192",
+      "latitude": "-22.866"
+    }
+  },
+  "64": {
+    "read": {
+      "date": "2017-06-14 13:53:17 +0000",
+      "carrierName": "",
+      "signalStrength": "17.49365234375",
+      "longitude": "-43.194",
+      "latitude": "-22.866"
+    }
+  },
+  "65": {
+    "read": {
+      "date": "2017-06-14 13:53:27 +0000",
+      "carrierName": "",
+      "signalStrength": "17.49365234375",
+      "longitude": "-43.196",
+      "latitude": "-22.866"
+    }
+  },
+  "66": {
+    "read": {
+      "date": "2017-06-14 13:53:32 +0000",
+      "carrierName": "",
+      "signalStrength": "17.296875",
+      "longitude": "-43.198",
+      "latitude": "-22.866"
+    }
+  },
+  "67": {
+    "read": {
+      "date": "2017-06-14 13:53:38 +0000",
+      "carrierName": "",
+      "signalStrength": "17.3984375",
+      "longitude": "-43.198",
+      "latitude": "-22.868"
+    }
+  },
+  "68": {
+    "read": {
+      "date": "2017-06-14 13:53:49 +0000",
+      "carrierName": "",
+      "signalStrength": "17.496826171875",
+      "longitude": "-43.2",
+      "latitude": "-22.868"
+    }
+  },
+  "69": {
+    "read": {
+      "date": "2017-06-14 13:53:54 +0000",
+      "carrierName": "",
+      "signalStrength": "17.296875",
+      "longitude": "-43.202",
+      "latitude": "-22.868"
+    }
+  },
+  "70": {
+    "read": {
+      "date": "2017-06-14 13:54:02 +0000",
+      "carrierName": "",
+      "signalStrength": "17.474609375",
+      "longitude": "-43.202",
+      "latitude": "-22.87"
+    }
+  },
+  "71": {
+    "read": {
+      "date": "2017-06-14 13:54:10 +0000",
+      "carrierName": "",
+      "signalStrength": "17.474609375",
+      "longitude": "-43.204",
+      "latitude": "-22.87"
+    }
+  },
+  "72": {
+    "read": {
+      "date": "2017-06-14 13:54:19 +0000",
+      "carrierName": "",
+      "signalStrength": "17.4873046875",
+      "longitude": "-43.204",
+      "latitude": "-22.872"
+    }
+  },
+  "73": {
+    "read": {
+      "date": "2017-06-14 13:54:25 +0000",
+      "carrierName": "",
+      "signalStrength": "17.3984375",
+      "longitude": "-43.206",
+      "latitude": "-22.872"
+    }
+  },
+  "74": {
+    "read": {
+      "date": "2017-06-14 13:54:35 +0000",
+      "carrierName": "",
+      "signalStrength": "17.49365234375",
+      "longitude": "-43.206",
+      "latitude": "-22.874"
+    }
+  },
+  "75": {
+    "read": {
+      "date": "2017-06-14 13:54:41 +0000",
+      "carrierName": "",
+      "signalStrength": "17.3984375",
+      "longitude": "-43.208",
+      "latitude": "-22.874"
+    }
+  },
+  "76": {
+    "read": {
+      "date": "2017-06-14 13:54:52 +0000",
+      "carrierName": "",
+      "signalStrength": "17.496826171875",
+      "longitude": "-43.208",
+      "latitude": "-22.876"
+    }
+  },
+  "77": {
+    "read": {
+      "date": "2017-06-14 13:54:56 +0000",
+      "carrierName": "",
+      "signalStrength": "17.09375",
+      "longitude": "-43.21",
+      "latitude": "-22.876"
+    }
+  },
+  "78": {
+    "read": {
+      "date": "2017-06-14 13:55:06 +0000",
+      "carrierName": "",
+      "signalStrength": "17.49365234375",
+      "longitude": "-43.21",
+      "latitude": "-22.878"
+    }
+  },
+  "79": {
+    "read": {
+      "date": "2017-06-14 13:55:09 +0000",
+      "carrierName": "",
+      "signalStrength": "16.6875",
+      "longitude": "-43.212",
+      "latitude": "-22.878"
+    }
+  },
+  "80": {
+    "read": {
+      "date": "2017-06-14 13:55:21 +0000",
+      "carrierName": "",
+      "signalStrength": "17.4984130859375",
+      "longitude": "-43.212",
+      "latitude": "-22.88"
+    }
+  },
+  "81": {
+    "read": {
+      "date": "2017-06-14 13:55:22 +0000",
+      "carrierName": "",
+      "signalStrength": "14.25",
+      "longitude": "-43.214",
+      "latitude": "-22.88"
+    }
+  },
+  "82": {
+    "read": {
+      "date": "2017-06-14 13:55:34 +0000",
+      "carrierName": "",
+      "signalStrength": "17.4984130859375",
+      "longitude": "-43.214",
+      "latitude": "-22.882"
+    }
+  },
+  "83": {
+    "read": {
+      "date": "2017-06-14 13:55:36 +0000",
+      "carrierName": "",
+      "signalStrength": "15.875",
+      "longitude": "-43.216",
+      "latitude": "-22.882"
+    }
+  },
+  "84": {
+    "read": {
+      "date": "2017-06-14 13:55:48 +0000",
+      "carrierName": "",
+      "signalStrength": "17.4984130859375",
+      "longitude": "-43.216",
+      "latitude": "-22.884"
+    }
+  },
+  "85": {
+    "read": {
+      "date": "2017-06-14 13:55:53 +0000",
+      "carrierName": "",
+      "signalStrength": "17.296875",
+      "longitude": "-43.216",
+      "latitude": "-22.886"
+    }
+  },
+  "86": {
+    "read": {
+      "date": "2017-06-14 13:55:58 +0000",
+      "carrierName": "",
+      "signalStrength": "17.296875",
+      "longitude": "-43.218",
+      "latitude": "-22.886"
+    }
+  },
+  "87": {
+    "read": {
+      "date": "2017-06-14 13:55:59 +0000",
+      "carrierName": "",
+      "signalStrength": "14.25",
+      "longitude": "-43.218",
+      "latitude": "-22.888"
+    }
+  },
+  "88": {
+    "read": {
+      "date": "2017-06-14 13:56:08 +0000",
+      "carrierName": "",
+      "signalStrength": "17.4873046875",
+      "longitude": "-43.216",
+      "latitude": "-22.888"
+    }
+  },
+  "89": {
+    "read": {
+      "date": "2017-06-14 13:56:20 +0000",
+      "carrierName": "",
+      "signalStrength": "17.4984130859375",
+      "longitude": "-43.216",
+      "latitude": "-22.89"
+    }
+  },
+  "90": {
+    "read": {
+      "date": "2017-06-14 13:56:25 +0000",
+      "carrierName": "",
+      "signalStrength": "17.296875",
+      "longitude": "-43.216",
+      "latitude": "-22.892"
+    }
+  },
+  "91": {
+    "read": {
+      "date": "2017-06-14 13:56:34 +0000",
+      "carrierName": "",
+      "signalStrength": "17.4873046875",
+      "longitude": "-43.214",
+      "latitude": "-22.892"
+    }
+  },
+  "92": {
+    "read": {
+      "date": "2017-06-14 13:56:56 +0000",
+      "carrierName": "",
+      "signalStrength": "17.4999984502792",
+      "longitude": "-43.214",
+      "latitude": "-22.894"
+    }
+  },
+  "93": {
+    "read": {
+      "date": "2017-06-14 13:57:05 +0000",
+      "carrierName": "",
+      "signalStrength": "17.4873046875",
+      "longitude": "-43.214",
+      "latitude": "-22.896"
+    }
+  },
+  "94": {
+    "read": {
+      "date": "2017-06-14 13:58:55 +0000",
+      "carrierName": "",
+      "signalStrength": "17.5",
+      "longitude": "-43.212",
+      "latitude": "-22.896"
+    }
+  },
+  "95": {
+    "read": {
+      "date": "2017-06-14 13:58:58 +0000",
+      "carrierName": "",
+      "signalStrength": "16.6875",
+      "longitude": "-43.21",
+      "latitude": "-22.896"
+    }
+  },
+  "96": {
+    "read": {
+      "date": "2017-06-14 13:59:18 +0000",
+      "carrierName": "",
+      "signalStrength": "17.4999938011169",
+      "longitude": "-43.21",
+      "latitude": "-22.898"
+    }
+  },
+  "97": {
+    "read": {
+      "date": "2017-06-13 13:04:29 +0000",
+      "carrierName": "",
+      "signalStrength": "11.0",
+      "longitude": "-43.208",
+      "latitude": "-22.9"
+    }
+  },
+  "98": {
+    "read": {
+      "date": "2017-06-13 13:04:36 +0000",
+      "carrierName": "",
+      "signalStrength": "11.0",
+      "longitude": "-43.206",
+      "latitude": "-22.9"
+    }
+  },
+  "99": {
+    "read": {
+      "date": "2017-06-13 13:05:01 +0000",
+      "carrierName": "",
+      "signalStrength": "11.0",
+      "longitude": "-43.206",
+      "latitude": "-22.898"
+    }
+  },
+  "100": {
+    "read": {
+      "date": "2017-06-13 13:05:10 +0000",
+      "carrierName": "",
+      "signalStrength": "11.0",
+      "longitude": "-43.204",
+      "latitude": "-22.898"
+    }
+  },
+  "101": {
+    "read": {
+      "date": "2017-06-13 13:05:48 +0000",
+      "carrierName": "",
+      "signalStrength": "11.0",
+      "longitude": "-43.204",
+      "latitude": "-22.896"
+    }
+  },
+  "102": {
+    "read": {
+      "date": "2017-06-13 13:06:09 +0000",
+      "carrierName": "",
+      "signalStrength": "11.0",
+      "longitude": "-43.202",
+      "latitude": "-22.896"
+    }
+  },
+  "103": {
+    "read": {
+      "date": "2017-06-13 13:06:22 +0000",
+      "carrierName": "",
+      "signalStrength": "11.0",
+      "longitude": "-43.2",
+      "latitude": "-22.896"
+    }
+  },
+  "104": {
+    "read": {
+      "date": "2017-06-13 13:07:02 +0000",
+      "carrierName": "",
+      "signalStrength": "11.0",
+      "longitude": "-43.2",
+      "latitude": "-22.894"
+    }
+  },
+  "105": {
+    "read": {
+      "date": "2017-06-13 13:08:13 +0000",
+      "carrierName": "",
+      "signalStrength": "11.0",
+      "longitude": "-43.198",
+      "latitude": "-22.894"
+    }
+  },
+  "106": {
+    "read": {
+      "date": "2017-06-13 13:08:30 +0000",
+      "carrierName": "",
+      "signalStrength": "11.0",
+      "longitude": "-43.196",
+      "latitude": "-22.894"
+    }
+  },
+  "107": {
+    "read": {
+      "date": "2017-06-13 13:08:32 +0000",
+      "carrierName": "",
+      "signalStrength": "11.0",
+      "longitude": "-43.196",
+      "latitude": "-22.892"
+    }
+  },
+  "108": {
+    "read": {
+      "date": "2017-06-13 13:08:46 +0000",
+      "carrierName": "",
+      "signalStrength": "11.0",
+      "longitude": "-43.194",
+      "latitude": "-22.892"
+    }
+  },
+  "109": {
+    "read": {
+      "date": "2017-06-13 13:09:00 +0000",
+      "carrierName": "",
+      "signalStrength": "11.0",
+      "longitude": "-43.192",
+      "latitude": "-22.892"
+    }
+  },
+  "110": {
+    "read": {
+      "date": "2017-06-13 13:09:15 +0000",
+      "carrierName": "",
+      "signalStrength": "11.0",
+      "longitude": "-43.19",
+      "latitude": "-22.892"
+    }
+  },
+  "111": {
+    "read": {
+      "date": "2017-06-13 13:09:37 +0000",
+      "carrierName": "",
+      "signalStrength": "11.0",
+      "longitude": "-43.19",
+      "latitude": "-22.894"
+    }
+  },
+  "112": {
+    "read": {
+      "date": "2017-06-13 13:10:08 +0000",
+      "carrierName": "",
+      "signalStrength": "11.0",
+      "longitude": "-43.188",
+      "latitude": "-22.894"
+    }
+  },
+  "113": {
+    "read": {
+      "date": "2017-06-13 13:11:04 +0000",
+      "carrierName": "",
+      "signalStrength": "4.00000000000002",
+      "longitude": "-43.186",
+      "latitude": "-22.894"
+    }
+  },
+  "114": {
+    "read": {
+      "date": "2017-06-13 13:11:27 +0000",
+      "carrierName": "",
+      "signalStrength": "4.0",
+      "longitude": "-43.186",
+      "latitude": "-22.896"
+    }
+  },
+  "115": {
+    "read": {
+      "date": "2017-06-13 13:11:49 +0000",
+      "carrierName": "",
+      "signalStrength": "4.0",
+      "longitude": "-43.186",
+      "latitude": "-22.898"
+    }
+  },
+  "116": {
+    "read": {
+      "date": "2017-06-13 13:12:01 +0000",
+      "carrierName": "",
+      "signalStrength": "4.0",
+      "longitude": "-43.186",
+      "latitude": "-22.9"
+    }
+  },
+  "117": {
+    "read": {
+      "date": "2017-06-13 13:12:59 +0000",
+      "carrierName": "",
+      "signalStrength": "4.0",
+      "longitude": "-43.184",
+      "latitude": "-22.9"
+    }
+  },
+  "118": {
+    "read": {
+      "date": "2017-06-14 14:10:43 +0000",
+      "carrierName": "",
+      "signalStrength": "17.5",
+      "longitude": "-43.184",
+      "latitude": "-22.902"
+    }
+  },
+  "119": {
+    "read": {
+      "date": "2017-06-14 14:11:49 +0000",
+      "carrierName": "",
+      "signalStrength": "17.5",
+      "longitude": "-43.182",
+      "latitude": "-22.902"
+    }
+  },
+  "120": {
+    "read": {
+      "date": "2017-06-14 14:13:18 +0000",
+      "carrierName": "",
+      "signalStrength": "17.5",
+      "longitude": "-43.182",
+      "latitude": "-22.904"
+    }
+  },
+  "121": {
+    "read": {
+      "date": "2017-06-14 14:14:10 +0000",
+      "carrierName": "",
+      "signalStrength": "17.5",
+      "longitude": "-43.182",
+      "latitude": "-22.906"
+    }
+  },
+  "122": {
+    "read": {
+      "date": "2017-06-14 14:14:46 +0000",
+      "carrierName": "",
+      "signalStrength": "17.4999999998035",
+      "longitude": "-43.18",
+      "latitude": "-22.906"
+    }
+  },
+  "123": {
+    "read": {
+      "date": "2017-06-14 14:17:30 +0000",
+      "carrierName": "",
+      "signalStrength": "17.5",
+      "longitude": "-43.18",
+      "latitude": "-22.908"
+    }
+  },
+  "124": {
+    "read": {
+      "date": "2017-06-13 13:21:25 +0000",
+      "carrierName": "",
+      "signalStrength": "4.0",
+      "longitude": "-43.18",
+      "latitude": "-22.91"
+    }
+  },
+  "125": {
+    "read": {
+      "date": "2017-06-13 13:21:37 +0000",
+      "carrierName": "",
+      "signalStrength": "4.0",
+      "longitude": "-43.182",
+      "latitude": "-22.908"
+    }
+  },
+  "126": {
+    "read": {
+      "date": "2017-06-13 13:22:17 +0000",
+      "carrierName": "",
+      "signalStrength": "4.0",
+      "longitude": "-43.182",
+      "latitude": "-22.91"
+    }
+  },
+  "127": {
+    "read": {
+      "date": "2017-06-13 13:22:18 +0000",
+      "carrierName": "",
+      "signalStrength": "4.0",
+      "longitude": "-43.182",
+      "latitude": "-22.912"
+    }
+  },
+  "128": {
+    "read": {
+      "date": "2017-06-13 17:51:36 +0000",
+      "carrierName": "",
+      "signalStrength": "16.0",
+      "longitude": "-43.172",
+      "latitude": "-22.906"
+    }
+  },
+  "129": {
+    "read": {
+      "date": "2017-06-13 17:53:22 +0000",
+      "carrierName": "",
+      "signalStrength": "5.0",
+      "longitude": "-43.174",
+      "latitude": "-22.904"
+    }
+  },
+  "130": {
+    "read": {
+      "date": "2017-06-13 17:53:55 +0000",
+      "carrierName": "",
+      "signalStrength": "5.0",
+      "longitude": "-43.172",
+      "latitude": "-22.904"
+    }
+  },
+  "131": {
+    "read": {
+      "date": "2017-06-13 18:01:00 +0000",
+      "carrierName": "",
+      "signalStrength": "5.0",
+      "longitude": "-43.172",
+      "latitude": "-22.902"
+    }
+  },
+  "132": {
+    "read": {
+      "date": "2017-06-13 18:12:46 +0000",
+      "carrierName": "",
+      "signalStrength": "12.0",
+      "longitude": "-43.17",
+      "latitude": "-22.902"
+    }
+  },
+  "133": {
+    "read": {
+      "date": "2017-06-13 18:00:40 +0000",
+      "carrierName": "",
+      "signalStrength": "5.0",
+      "longitude": "-43.17",
+      "latitude": "-22.9"
+    }
+  },
+  "134": {
+    "read": {
+      "date": "2017-06-13 18:13:27 +0000",
+      "carrierName": "",
+      "signalStrength": "12.0",
+      "longitude": "-43.168",
+      "latitude": "-22.902"
+    }
+  },
+  "135": {
+    "read": {
+      "date": "2017-06-13 18:13:37 +0000",
+      "carrierName": "",
+      "signalStrength": "12.0",
+      "longitude": "-43.168",
+      "latitude": "-22.9"
+    }
+  },
+  "136": {
+    "read": {
+      "date": "2017-06-13 18:14:27 +0000",
+      "carrierName": "",
+      "signalStrength": "12.0",
+      "longitude": "-43.166",
+      "latitude": "-22.9"
+    }
+  },
+  "137": {
+    "read": {
+      "date": "2017-06-13 18:15:29 +0000",
+      "carrierName": "",
+      "signalStrength": "12.0",
+      "longitude": "-43.164",
+      "latitude": "-22.9"
+    }
+  },
+  "138": {
+    "read": {
+      "date": "2017-06-13 18:16:45 +0000",
+      "carrierName": "",
+      "signalStrength": "12.0",
+      "longitude": "-43.162",
+      "latitude": "-22.9"
+    }
+  },
+  "139": {
+    "read": {
+      "date": "2017-06-13 18:16:52 +0000",
+      "carrierName": "",
+      "signalStrength": "12.0",
+      "longitude": "-43.16",
+      "latitude": "-22.9"
+    }
+  },
+  "140": {
+    "read": {
+      "date": "2017-06-13 18:17:05 +0000",
+      "carrierName": "",
+      "signalStrength": "12.0",
+      "longitude": "-43.16",
+      "latitude": "-22.898"
+    }
+  },
+  "141": {
+    "read": {
+      "date": "2017-06-13 18:17:42 +0000",
+      "carrierName": "",
+      "signalStrength": "12.0",
+      "longitude": "-43.158",
+      "latitude": "-22.898"
+    }
+  },
+  "142": {
+    "read": {
+      "date": "2017-06-13 18:19:38 +0000",
+      "carrierName": "",
+      "signalStrength": "12.0",
+      "longitude": "-43.156",
+      "latitude": "-22.898"
+    }
+  },
+  "143": {
+    "read": {
+      "date": "2017-06-13 18:19:41 +0000",
+      "carrierName": "",
+      "signalStrength": "12.0",
+      "longitude": "-43.154",
+      "latitude": "-22.896"
+    }
+  },
+  "144": {
+    "read": {
+      "date": "2017-06-13 18:20:02 +0000",
+      "carrierName": "",
+      "signalStrength": "12.0",
+      "longitude": "-43.152",
+      "latitude": "-22.896"
+    }
+  },
+  "145": {
+    "read": {
+      "date": "2017-06-13 18:20:50 +0000",
+      "carrierName": "",
+      "signalStrength": "12.0",
+      "longitude": "-43.15",
+      "latitude": "-22.896"
+    }
+  },
+  "146": {
+    "read": {
+      "date": "2017-06-13 18:21:11 +0000",
+      "carrierName": "",
+      "signalStrength": "12.0",
+      "longitude": "-43.148",
+      "latitude": "-22.896"
+    }
+  },
+  "147": {
+    "read": {
+      "date": "2017-06-13 18:21:34 +0000",
+      "carrierName": "",
+      "signalStrength": "12.0",
+      "longitude": "-43.148",
+      "latitude": "-22.894"
+    }
+  },
+  "148": {
+    "read": {
+      "date": "2017-06-13 18:22:31 +0000",
+      "carrierName": "",
+      "signalStrength": "12.0",
+      "longitude": "-43.146",
+      "latitude": "-22.894"
+    }
+  },
+  "149": {
+    "read": {
+      "date": "2017-06-13 18:23:20 +0000",
+      "carrierName": "",
+      "signalStrength": "12.0",
+      "longitude": "-43.144",
+      "latitude": "-22.894"
+    }
+  },
+  "150": {
+    "read": {
+      "date": "2017-06-13 18:23:52 +0000",
+      "carrierName": "",
+      "signalStrength": "12.0",
+      "longitude": "-43.142",
+      "latitude": "-22.894"
+    }
+  },
+  "151": {
+    "read": {
+      "date": "2017-06-13 18:24:39 +0000",
+      "carrierName": "",
+      "signalStrength": "12.0",
+      "longitude": "-43.14",
+      "latitude": "-22.894"
+    }
+  },
+  "152": {
+    "read": {
+      "date": "2017-06-13 18:25:06 +0000",
+      "carrierName": "",
+      "signalStrength": "12.0",
+      "longitude": "-43.138",
+      "latitude": "-22.894"
+    }
+  },
+  "153": {
+    "read": {
+      "date": "2017-06-13 18:25:08 +0000",
+      "carrierName": "",
+      "signalStrength": "12.0",
+      "longitude": "-43.138",
+      "latitude": "-22.892"
+    }
+  },
+  "154": {
+    "read": {
+      "date": "2017-06-13 18:25:49 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.4969482421875",
+      "longitude": "-43.136",
+      "latitude": "-22.892"
+    }
+  },
+  "155": {
+    "read": {
+      "date": "2017-06-13 18:26:33 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.134",
+      "latitude": "-22.892"
+    }
+  },
+  "156": {
+    "read": {
+      "date": "2017-06-13 18:27:20 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.132",
+      "latitude": "-22.892"
+    }
+  },
+  "157": {
+    "read": {
+      "date": "2017-06-13 18:28:32 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.13",
+      "latitude": "-22.892"
+    }
+  },
+  "158": {
+    "read": {
+      "date": "2017-06-13 18:29:42 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.128",
+      "latitude": "-22.892"
+    }
+  },
+  "159": {
+    "read": {
+      "date": "2017-06-13 18:30:58 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.126",
+      "latitude": "-22.892"
+    }
+  },
+  "160": {
+    "read": {
+      "date": "2017-06-13 18:29:57 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.126",
+      "latitude": "-22.894"
+    }
+  },
+  "161": {
+    "read": {
+      "date": "2017-06-13 18:34:37 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.124",
+      "latitude": "-22.892"
+    }
+  },
+  "162": {
+    "read": {
+      "date": "2017-06-13 18:38:18 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.124",
+      "latitude": "-22.894"
+    }
+  },
+  "163": {
+    "read": {
+      "date": "2017-06-13 18:38:28 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.124",
+      "latitude": "-22.896"
+    }
+  },
+  "164": {
+    "read": {
+      "date": "2017-06-13 18:38:44 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.126",
+      "latitude": "-22.896"
+    }
+  },
+  "165": {
+    "read": {
+      "date": "2017-06-13 18:39:20 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.128",
+      "latitude": "-22.896"
+    }
+  },
+  "166": {
+    "read": {
+      "date": "2017-06-13 18:39:25 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.13",
+      "latitude": "-22.896"
+    }
+  },
+  "167": {
+    "read": {
+      "date": "2017-06-13 18:40:18 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.13",
+      "latitude": "-22.898"
+    }
+  },
+  "168": {
+    "read": {
+      "date": "2017-06-13 18:40:53 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.13",
+      "latitude": "-22.9"
+    }
+  },
+  "169": {
+    "read": {
+      "date": "2017-06-13 18:41:15 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.13",
+      "latitude": "-22.902"
+    }
+  },
+  "170": {
+    "read": {
+      "date": "2017-06-13 18:41:53 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.13",
+      "latitude": "-22.904"
+    }
+  },
+  "171": {
+    "read": {
+      "date": "2017-06-13 18:42:14 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.128",
+      "latitude": "-22.904"
+    }
+  },
+  "172": {
+    "read": {
+      "date": "2017-06-13 18:42:22 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.128",
+      "latitude": "-22.902"
+    }
+  },
+  "173": {
+    "read": {
+      "date": "2017-06-13 18:43:10 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.126",
+      "latitude": "-22.902"
+    }
+  },
+  "174": {
+    "read": {
+      "date": "2017-06-13 18:43:47 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.124",
+      "latitude": "-22.902"
+    }
+  },
+  "175": {
+    "read": {
+      "date": "2017-06-13 18:44:31 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.122",
+      "latitude": "-22.902"
+    }
+  },
+  "176": {
+    "read": {
+      "date": "2017-06-13 18:45:10 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.122",
+      "latitude": "-22.904"
+    }
+  },
+  "177": {
+    "read": {
+      "date": "2017-06-13 18:45:30 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.12",
+      "latitude": "-22.904"
+    }
+  },
+  "178": {
+    "read": {
+      "date": "2017-06-13 18:45:49 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.118",
+      "latitude": "-22.904"
+    }
+  },
+  "179": {
+    "read": {
+      "date": "2017-06-13 18:46:35 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.116",
+      "latitude": "-22.904"
+    }
+  },
+  "180": {
+    "read": {
+      "date": "2017-06-13 18:47:47 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.114",
+      "latitude": "-22.904"
+    }
+  },
+  "181": {
+    "read": {
+      "date": "2017-06-13 18:47:59 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.112",
+      "latitude": "-22.904"
+    }
+  },
+  "182": {
+    "read": {
+      "date": "2017-06-13 18:51:47 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.112",
+      "latitude": "-22.906"
+    }
+  },
+  "183": {
+    "read": {
+      "date": "2017-06-13 18:53:19 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.11",
+      "latitude": "-22.906"
+    }
+  },
+  "184": {
+    "read": {
+      "date": "2017-06-13 18:54:50 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.11",
+      "latitude": "-22.904"
+    }
+  },
+  "185": {
+    "read": {
+      "date": "2017-06-13 18:57:06 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.108",
+      "latitude": "-22.904"
+    }
+  },
+  "186": {
+    "read": {
+      "date": "2017-06-13 18:58:34 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.108",
+      "latitude": "-22.902"
+    }
+  },
+  "187": {
+    "read": {
+      "date": "2017-06-13 19:01:55 +0000",
+      "carrierName": "",
+      "signalStrength": "-0.5",
+      "longitude": "-43.106",
+      "latitude": "-22.902"
+    }
+  },
+  "188": {
+    "read": {
+      "date": "2017-06-14 13:59:36 +0000",
+      "carrierName": "",
+      "signalStrength": "17.5",
+      "longitude": "-43.21",
+      "latitude": "-22.9"
+    }
+  },
+  "189": {
+    "read": {
+      "date": "2017-06-14 14:00:12 +0000",
+      "carrierName": "",
+      "signalStrength": "17.5",
+      "longitude": "-43.21",
+      "latitude": "-22.902"
+    }
+  },
+  "190": {
+    "read": {
+      "date": "2017-06-14 14:00:51 +0000",
+      "carrierName": "",
+      "signalStrength": "17.5",
+      "longitude": "-43.21",
+      "latitude": "-22.904"
+    }
+  },
+  "191": {
+    "read": {
+      "date": "2017-06-14 14:02:31 +0000",
+      "carrierName": "",
+      "signalStrength": "17.5",
+      "longitude": "-43.21",
+      "latitude": "-22.906"
+    }
+  },
+  "192": {
+    "read": {
+      "date": "2017-06-14 14:02:35 +0000",
+      "carrierName": "",
+      "signalStrength": "17.5",
+      "longitude": "-43.21",
+      "latitude": "-22.908"
+    }
+  },
+  "193": {
+    "read": {
+      "date": "2017-06-14 14:02:51 +0000",
+      "carrierName": "",
+      "signalStrength": "17.5",
+      "longitude": "-43.208",
+      "latitude": "-22.908"
+    }
+  },
+  "194": {
+    "read": {
+      "date": "2017-06-14 14:03:07 +0000",
+      "carrierName": "",
+      "signalStrength": "17.5",
+      "longitude": "-43.208",
+      "latitude": "-22.91"
+    }
+  },
+  "195": {
+    "read": {
+      "date": "2017-06-14 14:03:49 +0000",
+      "carrierName": "",
+      "signalStrength": "17.5",
+      "longitude": "-43.206",
+      "latitude": "-22.91"
+    }
+  },
+  "196": {
+    "read": {
+      "date": "2017-06-14 14:03:55 +0000",
+      "carrierName": "",
+      "signalStrength": "17.5",
+      "longitude": "-43.204",
+      "latitude": "-22.91"
+    }
+  },
+  "197": {
+    "read": {
+      "date": "2017-06-14 14:04:06 +0000",
+      "carrierName": "",
+      "signalStrength": "17.5",
+      "longitude": "-43.204",
+      "latitude": "-22.908"
+    }
+  },
+  "198": {
+    "read": {
+      "date": "2017-06-14 14:04:18 +0000",
+      "carrierName": "",
+      "signalStrength": "17.5",
+      "longitude": "-43.202",
+      "latitude": "-22.908"
+    }
+  },
+  "199": {
+    "read": {
+      "date": "2017-06-14 14:04:28 +0000",
+      "carrierName": "",
+      "signalStrength": "17.5",
+      "longitude": "-43.2",
+      "latitude": "-22.908"
+    }
+  },
+  "200": {
+    "read": {
+      "date": "2017-06-14 14:04:33 +0000",
+      "carrierName": "",
+      "signalStrength": "17.5",
+      "longitude": "-43.198",
+      "latitude": "-22.908"
+    }
+  },
+  "201": {
+    "read": {
+      "date": "2017-06-14 14:04:56 +0000",
+      "carrierName": "",
+      "signalStrength": "17.5",
+      "longitude": "-43.198",
+      "latitude": "-22.906"
+    }
+  },
+  "202": {
+    "read": {
+      "date": "2017-06-14 14:05:13 +0000",
+      "carrierName": "",
+      "signalStrength": "17.5",
+      "longitude": "-43.196",
+      "latitude": "-22.906"
+    }
+  },
+  "203": {
+    "read": {
+      "date": "2017-06-14 14:06:46 +0000",
+      "carrierName": "",
+      "signalStrength": "17.5",
+      "longitude": "-43.194",
+      "latitude": "-22.906"
+    }
+  },
+  "204": {
+    "read": {
+      "date": "2017-06-14 14:06:59 +0000",
+      "carrierName": "",
+      "signalStrength": "17.5",
+      "longitude": "-43.192",
+      "latitude": "-22.906"
+    }
+  },
+  "205": {
+    "read": {
+      "date": "2017-06-14 14:07:08 +0000",
+      "carrierName": "",
+      "signalStrength": "17.5",
+      "longitude": "-43.192",
+      "latitude": "-22.904"
+    }
+  },
+  "206": {
+    "read": {
+      "date": "2017-06-14 14:07:22 +0000",
+      "carrierName": "",
+      "signalStrength": "17.5",
+      "longitude": "-43.19",
+      "latitude": "-22.904"
+    }
+  },
+  "207": {
+    "read": {
+      "date": "2017-06-14 14:07:56 +0000",
+      "carrierName": "",
+      "signalStrength": "17.5",
+      "longitude": "-43.188",
+      "latitude": "-22.904"
+    }
+  },
+  "208": {
+    "read": {
+      "date": "2017-06-14 14:08:08 +0000",
+      "carrierName": "",
+      "signalStrength": "17.5",
+      "longitude": "-43.186",
+      "latitude": "-22.904"
+    }
+  },
+  "209": {
+    "read": {
+      "date": "2017-06-14 14:08:13 +0000",
+      "carrierName": "",
+      "signalStrength": "17.5",
+      "longitude": "-43.186",
+      "latitude": "-22.902"
+    }
+  },
+  "count": 210
+}
